@@ -1,1 +1,1 @@
-This is my first file for git repository
+This is my first file for git repository testing.
